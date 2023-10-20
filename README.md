@@ -1,30 +1,7 @@
-# catchmind_client
+# 몰입캠프 4주차 최종 과제
 
-> catchmind client
+## 자유 주제 개발 (w/ KevinMin95)
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- 웹을 통해 사용자들이 같이 그림을 그릴 수 있는 서비스 개발
+- 회원가입, 로그인
+- 공동 편집 및 전시
